@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/rhtap_qe/go-wivmmghz:4f893fa263870e5cc32b14966d8acd65d27e60e5@sha256:12ca70c473dd1910e1db1ffdefd44666ba9408116c4d53ea57f0f3ccb2ef9ef9
+        - image: quay.io/rhtap_qe/go-wivmmghz:b1811c7476eef954216da95875c39369b7325e18@sha256:39b2746d3c299475a3700d987b33360828971fd6618363c0397217a02b648f12
           name: container-image
